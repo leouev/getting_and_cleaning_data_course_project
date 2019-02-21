@@ -1,9 +1,9 @@
 # getting_and_cleaning_data_course_project
-### This project is the course project of Getting and Cleaning data course offered on Coursera.
-### The main purpose of the project is to practice sourcing and processing datasets from its original state, and to prepare the usable tidy and clean data.
+This project is the course project of Getting and Cleaning data course offered on Coursera.
+The main purpose of the project is to practice sourcing and processing datasets from its original state, and to prepare the usable tidy and clean data.
 
 
-### In this project, there are 5 steps required, including:
+In this project, there are 5 steps required, including:
 ### 1.Merges the training and the test sets to create one data set.
 ### 2.Extracts only the measurements on the mean and standard deviation for each measurement.
 ### 3.Uses descriptive activity names to name the activities in the data set
