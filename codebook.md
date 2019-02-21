@@ -71,7 +71,7 @@ the source data was downloaded from https://d396qusza40orc.cloudfront.net/getdat
 
  Average of the time domain magnitude of body acceleration:
  
-   `timeDomainBodyAccelerometerMagnitudeMean`
+ 	 `timeDomainBodyAccelerometerMagnitudeMean`
  
  Standard deviation of the time domain magnitude of body acceleration:
  
@@ -79,15 +79,15 @@ the source data was downloaded from https://d396qusza40orc.cloudfront.net/getdat
 
  Average of the time domain magnitude of gravity acceleration:
  
-   `timeDomainGravityAccelerometerMagnitudeMean`
+ 	 `timeDomainGravityAccelerometerMagnitudeMean`
    
  Standard deviation of the time domain magnitude of gravity acceleration:
  
-   `timeDomainGravityAccelerometerMagnitudeStandardDeviation`
+ 	 `timeDomainGravityAccelerometerMagnitudeStandardDeviation`
 
  Average of the time domain magnitude of body acceleration jerk:
  
-   `timeDomainBodyAccelerometerJerkMagnitudeMean`
+	 `timeDomainBodyAccelerometerJerkMagnitudeMean`
    
  Standard deviation of the time domain magnitude of body acceleration jerk:
 
