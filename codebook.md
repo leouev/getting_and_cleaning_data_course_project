@@ -95,7 +95,7 @@ the source data was downloaded from https://d396qusza40orc.cloudfront.net/getdat
 
  Average of the time-domain magnitude of body angular velocity:
  
-   `timeDomainBodyGyroscopeMagnitudeMean`
+ 	 `timeDomainBodyGyroscopeMagnitudeMean`
  
  Standard deviation of the time-domain magnitude of body angular velocity:
 
@@ -103,7 +103,7 @@ the source data was downloaded from https://d396qusza40orc.cloudfront.net/getdat
 
  Average of the time-domain magnitude of body angular velocity jerk:
  
-   `timeDomainBodyGyroscopeJerkMagnitudeMean`
+ 	 `timeDomainBodyGyroscopeJerkMagnitudeMean`
  
  Standard deviation of the time-domain magnitude of body angular velocity jerk:
  
@@ -167,24 +167,24 @@ the source data was downloaded from https://d396qusza40orc.cloudfront.net/getdat
 
  Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration:
 
-	- `frequencyDomainBodyAccelerometerMagnitudeMean`
-	- `frequencyDomainBodyAccelerometerMagnitudeStandardDeviation`
-	- `frequencyDomainBodyAccelerometerMagnitudeMeanFrequency`
+	 `frequencyDomainBodyAccelerometerMagnitudeMean`
+	 `frequencyDomainBodyAccelerometerMagnitudeStandardDeviation`
+	 `frequencyDomainBodyAccelerometerMagnitudeMeanFrequency`
 
-- Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk:
+ Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk:
 
-	- `frequencyDomainBodyAccelerometerJerkMagnitudeMean`
-	- `frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
-	- `frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency`
+	 `frequencyDomainBodyAccelerometerJerkMagnitudeMean`
+	 `frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation`
+	 `frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency`
 
-- Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
+ Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity:
 
-	- `frequencyDomainBodyGyroscopeMagnitudeMean`
-	- `frequencyDomainBodyGyroscopeMagnitudeStandardDeviation`
-	- `frequencyDomainBodyGyroscopeMagnitudeMeanFrequency`
+	 `frequencyDomainBodyGyroscopeMagnitudeMean`
+	 `frequencyDomainBodyGyroscopeMagnitudeStandardDeviation`
+	 `frequencyDomainBodyGyroscopeMagnitudeMeanFrequency`
 
-- Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk:
+ Average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk:
 
-	- `frequencyDomainBodyGyroscopeJerkMagnitudeMean`
-	- `frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
-	- `frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
+	 `frequencyDomainBodyGyroscopeJerkMagnitudeMean`
+	 `frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation`
+	 `frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
