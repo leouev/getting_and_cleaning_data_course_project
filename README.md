@@ -10,7 +10,7 @@ In this project, there are 5 steps required, including:
 ### 4.Appropriately labels the data set with descriptive variable names.
 ### 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### In order to make the project more readable and understandable, I followed two more steps:
+In order to make the project more readable and understandable, I followed two more steps:
 ### 0. download the dataset.
 ### 6. output the tidy data.
 
